@@ -88262,7 +88262,7 @@ A.S5.prototype={
 I(a){var s=null,r=t.l,q=A.aC(a,s,r).w.a,p=q.a,o=A.e6(s,A.bX(A.aC(a,s,r).w.a.a>=1300?"Contact Us on WhatsApp":"WhatsApp",s,s,s,B.Vl,s,s,s),B.E,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.akY(),s,s,s,s,s,s),n=t.p
 return A.lH(B.i,A.uR(A.qq(!0,A.b3(s,A.cb(A.a([B.ME,B.Cw,A.dm(A.dV(A.a([o,B.RM,A.e6(s,A.bX(A.aC(a,s,r).w.a.a>=1300?"Follow Us on Twitter":"Twitter",s,s,s,B.Ux,s,s,s),B.E,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.akZ(),s,s,s,s,s,s)],n),B.q,B.c4,B.o,s),s,p),B.dX],n),B.be,B.ed,B.o),B.l,s,new A.at(0,1/0,q.b,1/0),s,s,s,s,s,s,s,s,p),!0,B.X,!0,!0)),s,new A.dD(B.cf,B.cF,s),s)}}
 A.akY.prototype={
-$0(){A.fd(A.cs("https://wa.me/+60182587329",0,null),B.aL)},
+$0(){A.fd(A.cs("https://wa.me/+601111895706",0,null),B.aL)},
 $S:0}
 A.akZ.prototype={
 $0(){A.fd(A.cs("https://twitter.com/godopetza",0,null),B.aL)},
