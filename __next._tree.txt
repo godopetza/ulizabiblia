@@ -1,6 +1,6 @@
-:HL["/_next/static/chunks/3lt1h2l-7wc80.css","style"]
+:HL["/_next/static/chunks/1yv-2mfbsncjd.css","style"]
 :HL["/_next/static/media/a744d4c147f3698b-s.p.3t6wimnoqat92.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/edc92f5080bab07a-s.p.1pg2nifvadz06.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/img/daudi.png","image"]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"LZZgCo_zqK-8toxPUYs3O","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"t3d9QDbLmgTdtez1q9RrQ","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
