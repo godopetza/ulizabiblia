@@ -1,0 +1,41 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/3qfy96eoyh-ek.js"
+3:"/_next/static/chunks/20sww7c4gihav.js"
+4:I[24770,["$2","$3"],"SessionProvider"]
+5:I[39756,["$2","$3"],"default"]
+6:I[37457,["$2","$3"],"default"]
+d:"/_next/static/chunks/3zt_16xndew4w.js"
+e:I[22016,["$2","$3","$d"],""]
+19:"ViewportBoundary"
+1a:I[97367,["$2","$3"],"$19"]
+1b:"MetadataBoundary"
+1c:I[97367,["$2","$3"],"$1b"]
+1d:"$Sreact.suspense"
+1e:I[27201,["$2","$3"],"IconMark"]
+:HL["/_next/static/chunks/39l3h6xt1icks.css","style"]
+:HL["/img/icon.png","image"]
+8:X
+b:X
+b:C
+c:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","main",null,{"className":"doc","children":[["$","nav",null,{"className":"doc-nav","children":["$","$Le",null,{"href":"/","className":"doc-brand","children":[["$","img",null,{"src":"/img/icon.png","alt":"","width":34,"height":34}],"UlizaBiblia"]}]}],["$","article",null,{"children":[["$","h1",null,{"children":"Masharti ya matumizi · Terms of use"}],["$","p",null,{"className":"muted small","children":["Imesasishwa / Updated: ","26 Novemba 2026"]}],[["$","p",null,{"children":["Kwa kutumia UlizaBiblia unakubali masharti haya. ",["$","i",null,{"children":"By using UlizaBiblia you accept these terms."}]]}],["$","h2",null,{"children":"1. Huduma · The service"}],["$","p",null,{"children":["UlizaBiblia inakusaidia kusoma Biblia na kuuliza maswali kuhusu Biblia na imani. Daudi ni msaidizi wa AI: majibu yake yanaweza kuwa na makosa. Si ushauri wa kitaalamu wa afya, sheria, fedha au ushauri nasaha, na si mbadala wa mchungaji au kanisa lako. ",["$","i",null,{"children":"Daudi is an AI assistant and can make mistakes. Its answers are not medical, legal, financial or counselling advice, and do not replace your pastor or church."}]]}],["$","h2",null,{"children":"2. Matumizi yanayofaa · Acceptable use"}],["$","p",null,{"children":["Usitumie huduma kwa madhumuni haramu, kumdhuru mtu, au kujaribu kuvunja mfumo. Tunaweza kusimamisha akaunti inayokiuka masharti. ",["$","i",null,{"children":"Don’t use the service unlawfully, to harm others, or to attack the system; we may suspend accounts that do."}]]}],["$","h2",null,{"children":"3. UlizaBiblia Plus"}],["$","p",null,{"children":["Plus inatoa maswali bila kikomo na vipengele vya ziada kwa muda uliolipia (wiki, mwezi au mwaka). Malipo ya pesa ya simu ni ya mara moja; hayajirudii yenyewe. Kama malipo yamekatwa lakini Plus haijawashwa, wasiliana nasi tutarekebisha au kurudisha pesa. ",["$","i",null,{"children":"Plus gives unlimited questions and extras for the period you pay for. Mobile money payments are one-off and do not renew automatically. If you were charged but Plus didn’t activate, contact us and we will fix it or refund you."}]]}],["$","h2",null,{"children":"4. Maandiko · Scripture"}],["$","p",null,{"children":["Neno: Bibilia Takatifu, Toleo Wazi © Biblica, CC BY-SA 4.0. World English Bible na King James Version ni mali ya umma. ","$Lf"]}],"$L10","$L11","$L12","$L13","$L14","$L15"]]}]]}],["$L16"],"$L17"]}],"p":"$@18","v":null,"s":"$8"}}]]
+9:[["children",{"s":"terms","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@a","v":"$b","s":"$8"},"c":"$Qc"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/39l3h6xt1icks.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/3qfy96eoyh-ek.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/20sww7c4gihav.js","async":true}]],["$","html",null,{"lang":"sw","className":"_0jMygq_variable B00P-W_variable","children":["$","body",null,{"children":["$","$L4",null,{"children":["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}]}]}]]}],"p":"$@7","v":null,"s":"$8"},"c":"$Q9"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1a",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#17143D"}]]}],["$","$L1c",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1d",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Masharti / Terms · UlizaBiblia"}],["$","meta","1",{"name":"description","content":"Masharti ya kutumia UlizaBiblia."}],["$","meta","2",{"property":"og:title","content":"UlizaBiblia"}],["$","meta","3",{"property":"og:description","content":"Uliza Biblia chochote. Daudi anakujibu kwa upole, akikuonyesha mistari halisi ya Biblia, kwa Kiswahili au Kiingereza."}],["$","meta","4",{"property":"og:url","content":"https://ulizabiblia.flutterai.dev/"}],["$","meta","5",{"property":"og:site_name","content":"UlizaBiblia"}],["$","meta","6",{"property":"og:locale","content":"sw_TZ"}],["$","meta","7",{"property":"og:image","content":"https://ulizabiblia.flutterai.dev/img/icon.png"}],["$","meta","8",{"property":"og:type","content":"website"}],["$","meta","9",{"name":"twitter:card","content":"summary"}],["$","meta","10",{"name":"twitter:title","content":"UlizaBiblia"}],["$","meta","11",{"name":"twitter:description","content":"Uliza Biblia chochote. Daudi anakujibu kwa upole, akikuonyesha mistari halisi ya Biblia, kwa Kiswahili au Kiingereza."}],["$","meta","12",{"name":"twitter:image","content":"https://ulizabiblia.flutterai.dev/img/icon.png"}],["$","link","13",{"rel":"icon","href":"/favicon.png"}],["$","link","14",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","$L1e","15",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1f","v":null,"s":"$8"}},"a":"$@20","u":"$@21","b":"AbIzjT9643BZ421PPK57X"}
+22:I[97367,["$2","$3"],"OutletBoundary"]
+f:["$","i",null,{"children":"Neno © Biblica, CC BY-SA 4.0; WEB and KJV are public domain."}]
+10:["$","h2",null,{"children":"5. Kikomo cha dhima · Liability"}]
+11:["$","p",null,{"children":["Huduma inatolewa “kama ilivyo”. Kwa kiwango kinachoruhusiwa na sheria, hatuwajibiki kwa hasara isiyo ya moja kwa moja inayotokana na matumizi yake. ",["$","i",null,{"children":"The service is provided “as is”; to the extent the law allows, we are not liable for indirect losses."}]]}]
+12:["$","h2",null,{"children":"6. Mabadiliko na sheria · Changes and law"}]
+13:["$","p",null,{"children":["Tunaweza kubadilisha masharti haya na tutaonyesha tarehe mpya hapa. Sheria za Tanzania zinatumika. ",["$","i",null,{"children":"We may update these terms and will show the new date here. Tanzanian law applies."}]]}]
+14:["$","h2",null,{"children":"7. Mawasiliano · Contact"}]
+15:["$","p",null,{"children":["Godopetza Labs Company Limited · ",["$","a",null,{"href":"mailto:benard@flutterai.dev","children":"benard@flutterai.dev"}]]}]
+16:["$","script","script-0",{"src":"/_next/static/chunks/3zt_16xndew4w.js","async":true}]
+17:["$","$L22",null,{"children":["$","$1d",null,{"name":"Next.MetadataOutlet","children":"$@23"}]}]
+8:300
+23:null
+21:true
+8:C
+20:0
+a:"$undefined"
+7:"$undefined"
+1f:"$undefined"
+18:"$undefined"
